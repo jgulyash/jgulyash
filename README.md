@@ -1,17 +1,6 @@
----
+# Providing a Training Ground to Neutralize Cyber Threats.
 
-# 🚧 This Repository is Under Construction 🚧
-
-## Building something sweet! Please check back later.
-
----
-
-# FuryWrenLabs
-Our mission is to provide a training ground to hunt down and neutralize cyber threats.
-
-[FuryWrenLabs] is a cyber threat simulation, detection, and analysis lab that believes cybersecurity victories hinge on human-guided AI. We bridge human threat intelligence with advanced AI cyber threat hunting and defense.
-
-Welcome! I am **Jay Gulyash**, a Senior Threat Analyst in U.S. National Security, pivoting into cybersecurity. My journey bridges deep-rooted expertise in geopolitical human threat mitigation and intelligence with cutting-edge cybersecurity, AI-driven detection, and adversary simulation.
+Welcome! I am **Jay Gulyash**, a Senior Threat Analyst in U.S. National Security and a Cybersecurity Practicioner. I am on a journey to bridge deep-rooted expertise in geopolitical physical threats and intelligence collection with AI-driven cybersecurity detection, analysis, and threat mitigation.
 
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
 ![Elasticsearch](https://img.shields.io/badge/elasticsearch-%230377CC.svg?style=for-the-badge&logo=elasticsearch&logoColor=white)
@@ -105,7 +94,7 @@ README.md               # This file
 LICENSE, CONTRIBUTING, SECURITY, CODE_OF_CONDUCT.md
 ```
 
-## Skills & Competencies Developed
+## Skills & Competencies in Development
 - Detection engineering (SIEM/XDR, IDS/IPS)
 - Threat hunting across Windows, Linux, MacOS
 - Incident response playbooks and forensic workflows
