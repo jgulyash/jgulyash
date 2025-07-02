@@ -1,6 +1,7 @@
-#  Technology and Intelligence Training Ground
+#  Cybersecurity and Intelligence Innovation Hub
+Empowering cyber resilience through hands-on innovation.
 
-Welcome! I am **Jay Gulyash**, a Senior Threat Analyst and Cybersecurity Practitioner on a journey to bridge my deep-rooted expertise in geopolitical physical threats and intelligence collection with AI-driven cybersecurity detection, analysis, and threat mitigation.
+Welcome! I am **Jay Gulyash**, a Senior Threat Analyst and Cybersecurity Practitioner. My goal is to bridge deep expertise in geopolitical physical threats and intelligence collection with AI-driven cybersecurity detection, analysis, and threat mitigation.
 
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
 ![Elasticsearch](https://img.shields.io/badge/elasticsearch-%230377CC.svg?style=for-the-badge&logo=elasticsearch&logoColor=white)
@@ -29,17 +30,9 @@ Welcome! I am **Jay Gulyash**, a Senior Threat Analyst and Cybersecurity Practit
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white)
 
-This repository showcases my home lab—an evolving cyber range designed to master:
-- Threat hunting
-- SOC operations
-- Malware analysis
-- Cloud security
-- Penetration testing
-- AI/LLM-powered detection
-- Threat intelligence - OSINT and Dark web
+<!-- Hidden images until I can find more and balance out the white space....<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/> <img src="https://nmap.org/images/nmap-logo-256x256.png" alt="Nmap" width="40" height="40"/> <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" alt="ChatGPT" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" alt="scikit-learn" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Bash" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="SQL" width="40" height="40"/> -->
 
-## Why This Lab Matters
-> "Cybersecurity today demands the fusion of intelligence tradecraft, technical mastery, and AI-powered scalability. This lab is my proving ground for that mission."
+
 
 ## Table of Contents
 - [Overview](#-overview)
@@ -51,14 +44,26 @@ This repository showcases my home lab—an evolving cyber range designed to mast
 - [License](#-license)
 - [Connect](#-connect)
 
+## Why This Lab Matters
+> "Cybersecurity today demands the fusion of intelligence tradecraft, technical mastery, and AI-powered scalability. This lab is my proving ground for that mission."
+
 ## Overview
 The **Cyber Threat Simulation & Detection Lab** is a self-contained cyber operations lab, purpose-built to replicate real-world attack and defense scenarios.
+
+This repository showcases my home lab—an evolving cyber range designed to master:
+- Threat hunting
+- SOC operations
+- Malware analysis
+- Cloud security
+- Penetration testing
+- AI/LLM-powered detection
+- Threat intelligence, including OSINT and dark web
 
 **Key Focus:**
 - Adversary emulation (Red Team)
 - Detection engineering (Blue Team)
 - Cloud security, malware analysis, and AI-driven SOC automation
-- Simulations aligned with **MITRE ATT&CK**
+- Simulations aligned with the **MITRE ATT&CK** framework
 
 ## Lab Architecture
 - **Primary Host:** MacBook Pro M4 Max (Virtualization)
@@ -77,7 +82,7 @@ The **Cyber Threat Simulation & Detection Lab** is a self-contained cyber operat
 | Project                                  | Description                                                                 |
 |-------------------------------------------|-----------------------------------------------------------------------------|
 | **SOC Operations Simulation**             | Build detection pipelines with Wazuh, Suricata, Snort, and OPNsense IDS/IPS.|
-| **Endpoint Threat Hunting & Forensics**   | Detect malware, lateral movement, persistence, and evasion.                |
+| **Endpoint Threat Hunting & Forensics**   | Detect malware, lateral movement, persistence, and evasion techniques       |
 | **Penetration Testing Lab**               | Perform vulnerability scanning, exploitation, and post-exploitation.       |
 | **Malware Analysis & Detection Engineering** | Reverse engineer malware and build detection rules.                     |
 | **AWS Cloud Security & Incident Response**| Simulate cloud attacks, misconfigurations, and implement detections.       |
@@ -91,16 +96,19 @@ The **Cyber Threat Simulation & Detection Lab** is a self-contained cyber operat
 .github/ISSUE_TEMPLATE/ # Issue templates and project management assets
 /scripts                # Automation for task creation and detection workflows
 README.md               # This file
-LICENSE, CONTRIBUTING, SECURITY, CODE_OF_CONDUCT.md
+LICENSE
+CONTRIBUTING.md
+SECURITY.md
+CODE_OF_CONDUCT.md
 ```
 
-## Skills & Competencies in Development
+## Skills & Competencies Being Developed
 - Detection engineering (SIEM/XDR, IDS/IPS)
 - Threat hunting across Windows, Linux, MacOS
 - Incident response playbooks and forensic workflows
 - Malware analysis and behavioral IOC extraction
 - Penetration testing and adversary emulation
-- AWS cloud security, misconfig detection, and IR
+- AWS cloud security, misconfig detection, and incident response
 - Threat intelligence collection, including dark web ops
 - AI-driven SOC automation using LLMs, Python, and ML
 
@@ -110,7 +118,7 @@ LICENSE, CONTRIBUTING, SECURITY, CODE_OF_CONDUCT.md
 - **Offensive Security:** Kali Linux, Metasploit, Nmap, Hydra, SQLMap
 - **Malware Analysis:** PEStudio, Strings, ProcMon, Wireshark, YARA
 - **Cloud Security:** AWS GuardDuty, CloudTrail, Config, EC2, S3
-- **Threat Intel:** Tor Browser, Ahmia, Onion forums, Open Source Intelligence (OSINT)
+- **Threat Intel:** Tor Browser, Tails OS, Ahmia, Onion forums, and other OSINT tools
 - **AI/ML:** OpenAI API, Jupyter, Python, Pandas, Scikit-Learn
 
 ## Roadmap
@@ -123,29 +131,9 @@ LICENSE, CONTRIBUTING, SECURITY, CODE_OF_CONDUCT.md
 - Publish in-depth case studies to [FuryWrenLabs.io](https://furywrenlabs.io)
 
 ## License
-This repository is licensed under the MIT License. See [LICENSE](./LICENSE) for details.
+This repository is licensed under the MIT License. See [LICENSE](./LICENSE) for details. ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 ## Connect
 **Jay Gulyash — Senior Threat Analyst**   
-**gulyash@yahoo.com**  
-[LinkedIn](www.linkedin.com/in/jay-gulyash-750489207)
+[LinkedIn](https://www.linkedin.com/in/jay-gulyash-750489207)
 [FuryWrenLabs.io](https://furywrenlabs.io) 
-
----
-> *"Simulating real-world threats. Building real-world defenses."*
-
-
-<!--
-**jgulyash/jgulyash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
