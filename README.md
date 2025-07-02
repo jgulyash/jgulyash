@@ -6,7 +6,6 @@ Welcome! I am **Jay Gulyash**, a Senior Threat Analyst and Cybersecurity Practit
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
 ![Elasticsearch](https://img.shields.io/badge/elasticsearch-%230377CC.svg?style=for-the-badge&logo=elasticsearch&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Amazon S3](https://img.shields.io/badge/Amazon%20S3-FF9900?style=for-the-badge&logo=amazons3&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -49,7 +48,6 @@ Welcome! I am **Jay Gulyash**, a Senior Threat Analyst and Cybersecurity Practit
 ![CompTIA Security+](https://img.shields.io/badge/CompTIA%20Security%2B-FF0000?style=for-the-badge&logo=comptia&logoColor=white)
 ![Incident Response](https://img.shields.io/badge/Incident%20Response-0078D4?style=for-the-badge&logoColor=white)
 ![Threat Hunting](https://img.shields.io/badge/Threat%20Hunting-FF5733?style=for-the-badge&logoColor=white)
-![Malware Analysis](https://img.shields.io/badge/Malware%20Analysis-9A26B3?style=for-the-badge&logoColor=white)
 ![OSINT](https://img.shields.io/badge/OSINT-F5A623?style=for-the-badge&logo=osint&logoColor=white)
 ![Generative AI](https://img.shields.io/badge/Generative%20AI-5F4B8B?style=for-the-badge&logo=openai&logoColor=white)
 ![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D4?style=for-the-badge&logo=windows&logoColor=white)
@@ -59,8 +57,6 @@ Welcome! I am **Jay Gulyash**, a Senior Threat Analyst and Cybersecurity Practit
 ![Threat Intelligence](https://img.shields.io/badge/Threat%20Intelligence-4CAF50?style=for-the-badge&logoColor=white)
 ![Penetration Testing](https://img.shields.io/badge/Penetration%20Testing-323332?style=for-the-badge&logoColor=white)
 ![Log Analysis](https://img.shields.io/badge/Log%20Analysis-orange?style=for-the-badge&logoColor=white)
-![Red Team](https://img.shields.io/badge/Red%20Team-FF0000?style=for-the-badge&logoColor=white)
-![Blue Team](https://img.shields.io/badge/Blue%20Team-0000FF?style=for-the-badge&logoColor=white)
 
 <!-- Hidden images until I can find more and balance out the white space....<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/> <img src="https://nmap.org/images/nmap-logo-256x256.png" alt="Nmap" width="40" height="40"/> <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" alt="ChatGPT" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" alt="scikit-learn" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Bash" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="SQL" width="40" height="40"/> -->
 
