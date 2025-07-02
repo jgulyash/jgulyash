@@ -1,4 +1,4 @@
-#  Cyber Technology and Intelligence Training Ground
+#  Technology and Intelligence Training Ground
 
 Welcome! I am **Jay Gulyash**, a Senior Threat Analyst and Cybersecurity Practitioner on a journey to bridge my deep-rooted expertise in geopolitical physical threats and intelligence collection with AI-driven cybersecurity detection, analysis, and threat mitigation.
 
