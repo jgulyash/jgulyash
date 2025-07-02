@@ -1,4 +1,4 @@
-# Providing a Training Ground to Neutralize Cyber Threats.
+#  Cybersecurity Training Ground
 
 Welcome! I am **Jay Gulyash**, a Senior Threat Analyst in U.S. National Security and a Cybersecurity Practicioner. I am on a journey to bridge deep-rooted expertise in geopolitical physical threats and intelligence collection with AI-driven cybersecurity detection, analysis, and threat mitigation.
 
@@ -36,7 +36,7 @@ This repository showcases my home lab—an evolving cyber range designed to mast
 - Cloud security
 - Penetration testing
 - AI/LLM-powered detection
-- Dark web threat intelligence
+- Threat intelligence - OSINT and Dark web
 
 ## Why This Lab Matters
 > "Cybersecurity today demands the fusion of intelligence tradecraft, technical mastery, and AI-powered scalability. This lab is my proving ground for that mission."
