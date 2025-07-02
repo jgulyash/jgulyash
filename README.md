@@ -1,6 +1,6 @@
 #  Cybersecurity Training Ground
 
-Welcome! I am **Jay Gulyash**, a Senior Threat Analyst in U.S. National Security and a Cybersecurity Practicioner. I am on a journey to bridge deep-rooted expertise in geopolitical physical threats and intelligence collection with AI-driven cybersecurity detection, analysis, and threat mitigation.
+Welcome! I am **Jay Gulyash**, a Senior Threat Analyst and Cybersecurity Practicioner. I am on a journey to bridge deep-rooted expertise in geopolitical physical threats and intelligence collection with AI-driven cybersecurity detection, analysis, and threat mitigation.
 
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
 ![Elasticsearch](https://img.shields.io/badge/elasticsearch-%230377CC.svg?style=for-the-badge&logo=elasticsearch&logoColor=white)
