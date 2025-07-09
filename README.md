@@ -1,7 +1,7 @@
 #  Digital Threat and Intelligence Innovation Hub
 Building human and cyber resilience through hands-on innovation.
 
-Welcome! I am **Jay Gulyash**, a Senior Threat Analyst and Cybersecurity Practitioner. My goal is to bridge deep expertise in physical threat mitigation and intelligence collection with AI-driven human risk solutions to protect against digital and real-world threats.
+Welcome! I am Jay Gulyash, a Senior Threat Analyst and Cybersecurity Practitioner. My goal is to bridge deep expertise in physical threat mitigation, Crime as a Service (CaaS), and intelligence collection with AI-driven human risk solutions to protect against digital and real-world threats.
 
 ## Table of Contents
 - [Overview](#-overview)
