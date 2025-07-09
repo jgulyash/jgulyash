@@ -1,7 +1,7 @@
-#  Cybersecurity and Intelligence Innovation Hub
+#  Digital Threat and Intelligence Innovation Hub
 Building human and cyber resilience through hands-on innovation.
 
-Welcome! I am **Jay Gulyash**, a Senior Threat Analyst and Cybersecurity Practitioner. My goal is to bridge deep expertise in geopolitical physical threats and intelligence collection with AI-driven cybersecurity detection, analysis, and threat mitigation.
+Welcome! I am **Jay Gulyash**, a Senior Threat Analyst and Cybersecurity Practitioner. My goal is to bridge deep expertise in geopolitical physical threats and intelligence collection with AI-driven human risk solutions to protect against digital and real-world threats.
 
 ## Table of Contents
 - [Overview](#-overview)
@@ -14,7 +14,7 @@ Welcome! I am **Jay Gulyash**, a Senior Threat Analyst and Cybersecurity Practit
 - [Connect](#-connect)
 
 ## Why This Lab Matters
-> "Cybersecurity today demands the fusion of intelligence tradecraft, technical mastery, and AI-powered scalability. This lab is my proving ground for that mission."
+> "The increasing convergence of physical and cyber threats today demands the fusion of intelligence tradecraft, technical mastery, and AI-powered scalability. This lab is my proving ground for that mission."
 <br>
 
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
@@ -75,7 +75,7 @@ Welcome! I am **Jay Gulyash**, a Senior Threat Analyst and Cybersecurity Practit
 <!-- Hidden images until I can find more and balance out the white space....<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/> <img src="https://nmap.org/images/nmap-logo-256x256.png" alt="Nmap" width="40" height="40"/> <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" alt="ChatGPT" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" alt="scikit-learn" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Bash" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="SQL" width="40" height="40"/> -->
 
 ## Overview
-The **Cyber Threat Simulation & Detection Lab** is a self-contained cyber operations lab, purpose-built to replicate real-world attack and defense scenarios.
+The **Cyber Threat Simulation & Detection Lab** is a self-contained cyber operations and OSINT collection lab, purpose-built to replicate real-world attack and defense scenarios, human risk exposure.
 
 This repository showcases my home lab—an evolving cyber range designed to master:
 - Threat hunting
