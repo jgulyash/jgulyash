@@ -155,7 +155,7 @@ CODE_OF_CONDUCT.md
 - LLM/AI-powered log analysis and anomaly detection
 - Expand cloud detection to include IAM misconfigurations
 - Build AI-driven triage assistant for SOC workflows
-- Publish in-depth case studies to [FuryWrenLabs.io](https://furywrenlabs.io)
+<!--- Publish in-depth case studies to [FuryWrenLabs.io](https://furywrenlabs.io)-->
 
 ## License
 This repository is licensed under the MIT License. See [LICENSE](./LICENSE) for details. ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
@@ -163,4 +163,4 @@ This repository is licensed under the MIT License. See [LICENSE](./LICENSE) for 
 ## Connect
 **Jay Gulyash — Senior Threat Analyst**   
 [LinkedIn](https://www.linkedin.com/in/jay-gulyash-750489207)
-[FuryWrenLabs.io](https://furywrenlabs.io) 
+<!--[FuryWrenLabs.io](https://furywrenlabs.io)-->
