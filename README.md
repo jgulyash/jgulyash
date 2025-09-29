@@ -1,7 +1,7 @@
 #  Digital Threat and Intelligence Innovation Hub
 Building human and cyber resilience through hands-on innovation.
 
-Welcome! I am Jay Gulyash, a Senior Threat Intelligence Analyst and Cybersecurity Practitioner. My goal is to bridge deep expertise in physical threat mitigation, Crime as a Service (CaaS), and intelligence collection with AI-driven human risk solutions to protect against digital and real-world threats.
+Welcome! I am Jay Gulyash, a Senior Threat Intelligence Analyst and Cybersecurity Practitioner. My goal is to bridge deep expertise in physical and geopolitical threat mitigation, Crime as a Service (CaaS), and intelligence collection with AI-driven human risk solutions to protect against digital and real-world threats.
 
 ## Table of Contents
 - [Overview](#-overview)
@@ -108,13 +108,13 @@ This repository showcases my home lab—an evolving cyber range designed to mast
 ## Current Projects
 | Project                                  | Description                                                                 |
 |-------------------------------------------|-----------------------------------------------------------------------------|
-| **SOC Operations Simulation**             | Build detection pipelines with Wazuh, Suricata, Snort, and OPNsense IDS/IPS.|
 | **Endpoint Threat Hunting & Forensics**   | Detect malware, lateral movement, persistence, and evasion techniques       |
 | **Penetration Testing Lab**               | Perform vulnerability scanning, exploitation, and post-exploitation.       |
 | **Malware Analysis & Detection Engineering** | Reverse engineer malware and build detection rules.                     |
 | **AWS Cloud Security & Incident Response**| Simulate cloud attacks, misconfigurations, and implement detections.       |
 | **Dark Web Threat Intelligence**          | Collect, analyze, and operationalize dark web intelligence.                |
 | **LLM/ML-Assisted Threat Detection**      | Use AI/ML for anomaly detection, threat triage, and log summarization.     |
+| **SOC Operations Simulation**             | Build detection pipelines with Wazuh, Suricata, Snort, and OPNsense IDS/IPS.|
 
 ## Repository Structure
 ```
