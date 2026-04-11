@@ -15,16 +15,11 @@ Seeking remote roles in corporate security, threat intelligence, protective inte
 
 ## What I'm Building
 
-**THREAT Matrix** — <Enter Description Here>
+THREAT Matrix and WARDEN are designed to work together as a practitioner ecosystem. THREAT Matrix provides the shared vocabulary: actor profiles, behavioral patterns, tactic progressions, Cyber-Physical Nexus indicators, and detection and response guidance across four target domains. WARDEN operationalizes that vocabulary into active threat monitoring, severity scoring, and structured escalation pathways that support analysts and operations personnel in making informed, defensible decisions. [See how these tools connect](ECOSYSTEM.md)
 
-**WARDEN** — Open-source executive and key personnel threat monitoring framework.
-Bidirectional coverage: external threats directed at principals and insider risk signals
-originating from within. Scored threat model, tiered escalation logic, HUMINT intake
-with chain-of-custody tracking.
+**THREAT Matrix** — Cyber threat intelligence has MITRE ATT&CK. Human threat intelligence now has THREAT Matrix: a community-driven open-source taxonomy covering how threat actors plan and execute adversarial action against people, facilities, organizations, and critical infrastructure. Four matrices, four phases, 154 tactics, and 27 actor profiles spanning seven threat categories — from fixated individuals and nation-state actors to malicious insiders, corporate espionage operatives, and organized criminal groups. Cyber-Physical Nexus tagging reflects the convergence of digital and physical threat vectors across every phase of an operation. Detection and response guidance, behavioral indicators, and countermeasures are on the V2 roadmap, deepening the framework from taxonomy to operational detection resource. MIT licensed, built to give the industry a shared standard.
 
-**Insider Risk Signal Aggregator** — Public-source behavioral signal aggregation built
-around anomaly detection and a behavioral baseline model. Designed to surface early
-indicators before they become investigations.
+**WARDEN** — One open-source framework for the full spectrum of personnel threat: external actors targeting employees and executives, insider risk signals originating from within, and everything in between. Scored threat model for consistent severity assessment across all threat types, tiered escalation logic to support and guide analysts and operations personnel in making timely and defensible decisions, and Source Acquisition intake with source attribution and chain-of-custody tracking so intelligence holds up when cases reach HR, legal, or law enforcement. WARDEN gives practitioners the platform to operationalize investigations at scale.
 
 ---
 
