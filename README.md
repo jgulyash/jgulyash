@@ -28,6 +28,7 @@ Seeking remote roles in corporate security, threat intelligence, protective inte
 **AI-Native Builder**
 
 Main Stack: Claude Code · Claude CoWork · Daniel Miessler's Personal AI Infrastructure (PAI) · Nano Banana · Midjourney · Ideogram
+
 &nbsp;&nbsp;&nbsp;Agents: 27  
 &nbsp;&nbsp;&nbsp;Skills: 63  
 &nbsp;&nbsp;&nbsp;Workflows: 334  
