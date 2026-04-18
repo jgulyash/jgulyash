@@ -27,7 +27,7 @@ Seeking remote roles in corporate security, threat intelligence, protective inte
 
 **AI-Native Builder**
 
-Main Stack: Claude Code · Claude CoWork · Daniel Miessler's Personal AI Infrastructure (PAI) · Nano Banana · Midjourney · Ideogram
+Current Main Stack: Claude Code · Claude CoWork · Daniel Miessler's Personal AI Infrastructure (PAI) · Nano Banana · Midjourney · Ideogram
 
 &nbsp;&nbsp;&nbsp;Agents: 27  
 &nbsp;&nbsp;&nbsp;Skills: 63  
@@ -37,9 +37,8 @@ Main Stack: Claude Code · Claude CoWork · Daniel Miessler's Personal AI Infras
 
 **CTI Analysis, Building, and Testing Environment**
 
-Stack: Wazuh SIEM/XDR · MISP threat intel platform · Suricata IDS · Zeek NSM ·
-Neo4J knowledge graph · ChromaDB vector store · n8n automation · Logstash pipelines ·
-Metasploitable2 · REMnux
+Stack: Wazuh SIEM/XDR · MISP threat intel platform · Suricata IDS · OPNsense|Zenarmor· Zeek NSM ·
+Neo4J knowledge graph · ChromaDB vector store · Logstash pipelines · Metasploitable2 · REMnux
 
 ---
 
