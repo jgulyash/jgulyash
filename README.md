@@ -9,7 +9,7 @@ Seeking remote roles in corporate security, threat intelligence, protective inte
 
 ## What I'm Building
 
-**THREAT Matrix** and **WARDEN** are designed to work together as a practitioner ecosystem. THREAT Matrix provides the shared vocabulary for the physical-threat domain — mapping what adversaries do, when, and why, so analysts and investigators can recognize patterns in their casework and respond with context: actor profiles, behavioral patterns, lifecycle phase progressions, Cyber-Physical Nexus and AI-Initiated-Physical tags, and detection and response guidance across four target matrices. WARDEN operationalizes that vocabulary into active threat monitoring, severity scoring, and structured escalation pathways that support analysts and operations personnel in making informed, defensible decisions.[See how these tools connect](ECOSYSTEM.md).
+**THREAT Matrix** and **WARDEN** are designed to work together as a practitioner ecosystem. THREAT Matrix provides the shared vocabulary for the physical-threat domain — mapping what adversaries do, when, and why, so analysts and investigators can recognize patterns in their casework and respond with context: actor profiles, behavioral patterns, lifecycle phase progressions, Cyber-Physical Nexus and AI-Initiated-Physical tags, and detection and response guidance across four target matrices. WARDEN operationalizes that vocabulary into active threat monitoring, severity scoring, and structured escalation pathways that support analysts and operations personnel in making informed, defensible decisions. [See how these tools connect](ECOSYSTEM.md).
 
 ### [THREAT Matrix](https://github.com/jgulyash/THREAT-Matrix) — [Launch in browser](https://jgulyash.github.io/THREAT-Matrix/)
 
