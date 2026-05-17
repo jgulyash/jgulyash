@@ -1,7 +1,7 @@
 # Jay Gulyash
 ### Senior Threat Intelligence Analyst | Threat Investigator | AI-Native Builder
 
-I've spent 15+ years building threat pictures and leading high-tempo end-to-end threat investigations and disruption operations for a U.S. Intelligence Agency — assembling and directing analysts, operators, and international partners across four continents based on what each case required. I've hunted physical and digital threats from nation-state, insider, organized criminal, and terrorist actors. I've led investigations from the field to the boardroom, briefed senior leaders under time pressure, and coordinated with the FBI, protective services teams, and international partners to stop real harm before it happened.
+I've spent 15+ years building threat pictures and leading high-tempo end-to-end threat investigations and disruption operations for a U.S. Intelligence Agency — assembling and directing analysts, operators, and international partners across four continents based on what each case required. I've hunted physical and digital threats from nation-state, insider, organized criminal, and terrorist actors. I've led investigations from the field to the boardroom and briefed senior leaders under time pressure. A trusted partner to the FBI, United Staes Secret Service, Department of State Diplomatic Security, Joint Special Operatins Command, and international security services to stop real harm before it happened.
 
 Seeking remote roles in corporate security, threat intelligence, protective intelligence, insider threat, global risk management, and trust and safety.
 
